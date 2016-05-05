@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	DEFAULT_HOST = "127.0.0.1:5555"
+	DEFAULT_HOST = ":5000"
 )
 
 var (
